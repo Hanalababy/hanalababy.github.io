@@ -19,6 +19,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```markdown
+int n=0;
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
